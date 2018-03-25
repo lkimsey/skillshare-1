@@ -1,0 +1,6 @@
+*.pyc
+*.log*
+*.bak*
+mmhost1.cnf
+lp01728.cnf
+lon1vtp32.cnf
